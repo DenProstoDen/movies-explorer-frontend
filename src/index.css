@@ -1,1 +1,29 @@
-@import url(./blocks/body/body.css);
+@import url(./fonts/fonts.css);
+
+@import url(./components/main/Tech/Tech.css);
+@import url(./components/main/AboutProject/AboutProject.css);
+@import url(./components/main/Promo/Promo.css);
+@import url(./components/main/NavTab/NavTav.css);
+@import url(./components/main/AboutMe/AboutMe.css);
+@import url(./components/main/Portfolio/Portfolio.css);
+
+@import url(./components/footer/footer.css);
+@import url(./components/header/header.css);
+@import url(./components/navigation/navigation.css);
+@import url(./components/burgerPopup/burgerPopup.css);
+
+@import url(./components/notFound/notFound.css);
+@import url(./components/auth/auth.css);
+@import url(./components/profile/profile.css);
+@import url(./components/Movies/movies.css);
+@import url(./components/SavedMovies/SavedMovies.css);
+@import url(./components/MovieList/movieList.css);
+@import url(./components/movieCard/movieCard.css);
+
+
+/* @import url(./components/ButtonMore/ButtonMore.css); */
+@import url(./components/SearchForm/SearchForm.css);
+/* @import url(./components/FilterCheckbox/FilterCheckbox.css); */
+@import url(./components/ScrollUp/ScrollUp.css);
+@import url(./components/InfoToolTip/InfoToolTip.css);
+@import url(./components/Preloader/Preloader.css);
