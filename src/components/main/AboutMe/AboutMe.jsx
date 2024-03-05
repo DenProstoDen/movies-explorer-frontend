@@ -1,4 +1,4 @@
-import profileImg from ""
+import profileImg from "../../../images/photo.jpg"
 import Portfolio from "../Portfolio/Portfolio";
 function AboutMe() {
     return (

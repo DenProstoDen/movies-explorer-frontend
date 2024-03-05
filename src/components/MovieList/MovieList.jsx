@@ -1,5 +1,5 @@
 import ButtonMore from "../ButtonMore/ButtonMore";
-import MoviesCard from "../MoviesCard/MoviesCard";
+import MoviesCard from "../movieCard/movieCard";
 import {useState} from "react";
 import Preloader from "../Preloader/Preloader";
 

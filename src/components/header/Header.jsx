@@ -1,6 +1,5 @@
 import {Link, NavLink, useLocation} from "react-router-dom";
-import Navigation from "../Navigation/Navigation";
-import {useState} from "react";
+import Navigation from "../navigation/Navigation";
 
 export default function Header({auth, openBurger}) {
     const location = useLocation()

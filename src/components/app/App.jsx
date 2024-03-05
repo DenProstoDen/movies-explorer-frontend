@@ -15,7 +15,7 @@ import Preloader from "../Preloader/Preloader";
 import Movies from "../Movies/Movies";
 import SavedMovies from "../SavedMovies/SavedMovies";
 import constantFilm from "../../utils/constant";
-import burgerPopup from "../burgerPopup/burgerPopup";
+import BurgerPopup from "../burgerPopup/burgerPopup";
 import InfoToolTip from "../InfoToolTip/InfoToolTip";
 
 function App() {
@@ -90,7 +90,7 @@ function App() {
 
           <Footer/>
 
-          <burgerPopup
+          <BurgerPopup
               isOpen={isBurgerMenu}
               onClose={handleClosePopup}
           />

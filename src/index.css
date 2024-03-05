@@ -1,4 +1,5 @@
 @import url(./fonts/fonts.css);
+@import url(./utils/overallStyle.css);
 
 @import url(./components/main/Tech/Tech.css);
 @import url(./components/main/AboutProject/AboutProject.css);
@@ -21,9 +22,11 @@
 @import url(./components/movieCard/movieCard.css);
 
 
-/* @import url(./components/ButtonMore/ButtonMore.css); */
+@import url(./components/ButtonMore/ButtonMore.css);
 @import url(./components/SearchForm/SearchForm.css);
-/* @import url(./components/FilterCheckbox/FilterCheckbox.css); */
+@import url(./components/FilterCheckbox/FilterCheckbox.css);
 @import url(./components/ScrollUp/ScrollUp.css);
 @import url(./components/InfoToolTip/InfoToolTip.css);
+
 @import url(./components/Preloader/Preloader.css);
+@import url(../src/fonts/normalize.css);

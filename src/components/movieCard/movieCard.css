@@ -76,14 +76,14 @@
 }
 
 .movie__button_saved {
-  background-image: url("../../images/savedBtn.svg");
+  background-image: url("../../images/save3.svg");
   width: 21px;
   height: 21px;
   background-color: transparent;
 }
 
 .movie__button_delete {
-  background-image: url("../../images/deleteBtn.svg");
+  background-image: url("../../images/d3.svg");
   width: 21px;
   height: 21px;
   background-color: transparent;

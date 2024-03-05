@@ -1,5 +1,5 @@
-import successIcon from '../../images/successIcon.svg'
-import errorIcon from '../../images/errorIcon.svg'
+import successIcon from '../../images/good.svg'
+import errorIcon from '../../images/bad.svg'
 
 export default function InfoTooltip({isOpen, onClose, isSuccess}) {
     return (

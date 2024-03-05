@@ -42,7 +42,7 @@
     }
 
     .burger__button {
-        background-image: url("../../images/burgerMenu.svg");
+        background-image: url("../../images/burgerBtn.svg");
         position: absolute;
         width: 44px;
         height: 44px;

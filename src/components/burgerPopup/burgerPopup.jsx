@@ -1,5 +1,4 @@
 import {Link, NavLink} from "react-router-dom";
-import {useRef, useState} from "react";
 
 export default function burgerPopup({isOpen, onClose}) {
 

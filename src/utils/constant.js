@@ -1,13 +1,12 @@
-import movieNumber1 from "../images/movieNumber1.jpeg"
-import movieNumber2 from "../images/movieNumber2.jpeg"
-import movieNumber3 from "../images/movieNumber3.jpeg"
-import movieNumber4 from "../images/movieNumber4.jpeg"
-import movieNumber5 from "../images/movieNumber5.jpeg"
-import movieNumber6 from "../images/movieNumber6.jpeg"
-import movieNumber7 from "../images/movieNumber7.jpeg"
-import movieNumber8 from "../images/movieNumber8.jpeg"
-import movieNumber9 from "../images/movieNumber9.jpeg"
-import movieNumber10 from "../images/movieNumber10.jpeg"
+import movieNumber1 from "../images/movieNumber1.jpg"
+import movieNumber2 from "../images/movieNumber2.jpg"
+import movieNumber3 from "../images/movieNumber3.jpg"
+import movieNumber4 from "../images/movieNumber4.jpg"
+import movieNumber5 from "../images/movieNumber5.jpg"
+import movieNumber6 from "../images/movieNumber6.jpg"
+import movieNumber7 from "../images/movieNumber7.jpg"
+import movieNumber8 from "../images/movieNumber8.jpg"
+import movieNumber9 from "../images/movieNumber9.jpg"
 
 const constantFilm = [
     {
@@ -63,12 +62,6 @@ const constantFilm = [
         name: 'film number 9',
         image: movieNumber9,
         duration: 40
-    },
-    {
-        id: 10,
-        name: 'film number 10',
-        image: movieNumber10,
-        duration: 110
     },
 ]
 
