@@ -1,7 +1,7 @@
 .header {
   display: flex;
   justify-content: space-between;
-  margin: 18px 70px;
+  padding: 18px 70px;
 }
 
 .header__link-logo, .auth__link-logo {
