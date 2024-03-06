@@ -1,5 +1,5 @@
-import profileImg from "../../../images/photo.jpg"
 import Portfolio from "../Portfolio/Portfolio";
+import profileImg from "../../../images/photo.jpg"
 function AboutMe() {
     return (
         <section className="aboutMe" id="aboutMe">

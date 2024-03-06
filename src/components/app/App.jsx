@@ -1,4 +1,4 @@
-import PromoProject from "../main/Promo/Promo";
+import Promo from "../main/Promo/Promo";
 import {Route, Routes, useLocation, useNavigate} from "react-router-dom";
 import AboutProject from "../main/AboutProject/AboutProject";
 import AboutTechs from "../main/Tech/Tech";

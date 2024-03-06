@@ -1,7 +1,7 @@
 import NavTab from "../NavTab/NavTab";
 
 
-function PromoProject() {
+function Promo() {
     return (
         <section className="promo">
             <div className="promo__info">
@@ -14,4 +14,4 @@ function PromoProject() {
     )
 }
 
-export default PromoProject
+export default Promo

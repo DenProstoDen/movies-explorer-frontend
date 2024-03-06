@@ -1,4 +1,4 @@
-import ButtonMore from "../ButtonMore/ButtonMore";
+import ButtonMore from "../MoreButton/MoreButton";
 import MoviesCard from "../movieCard/movieCard";
 import {useState} from "react";
 import Preloader from "../Preloader/Preloader";

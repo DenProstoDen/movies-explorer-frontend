@@ -7,10 +7,7 @@ export default function Header({auth, openBurger}) {
 
     return(
         <header id="header">
-            {path !== '/' &&
-            path !== '/movies' &&
-            path !== '/saved-movies' &&
-            path !== '/profile' ? null : (
+            {path !== '/' && path !== '/movies' && path !== '/saved-movies' && path !== '/profile' ? null : (
                 <section>
                     {!auth ? (
                         <div className="header">
